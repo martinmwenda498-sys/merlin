@@ -1,0 +1,6 @@
+{
+  "name": "Grace Sanctuary Church",
+  "description": "Church portal with sermons, events, activities, photo gallery, admin CMS, and secure M-Pesa & bank tithes and offerings giving with STK PIN prompt and accounting tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
